@@ -1,0 +1,6 @@
+{
+  "name": "DocuDesk",
+  "description": "Desktop-class tablet productivity suite for Xiaomi Pad 7 with 144Hz PDF reader and vector annotation engine, DOCX/XLSX OpenXML processors, and Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

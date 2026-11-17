@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocuDesk</string>
+    <string name="action_open_file">Open file</string>
+    <string name="action_new_docx">New Word Document</string>
+    <string name="action_new_xlsx">New Spreadsheet</string>
+    <string name="action_save">Save</string>
+    <string name="action_export_pdf">Flatten &amp; Export PDF</string>
+    <string name="action_search">Find in document</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_shortcuts">Keyboard shortcuts</string>
+    <string name="ribbon_toggle">Toggle ribbon</string>
+    <string name="nav_pane_toggle">Toggle navigation pane</string>
+    <string name="inspector_pane_toggle">Toggle inspector</string>
+    <string name="empty_workspace_title">Ready for Desktop-Class Work</string>
+    <string name="empty_workspace_subtitle">Open a PDF report, DOCX manuscript, or XLSX workbook from the library pane or import from device storage.</string>
+</resources>
