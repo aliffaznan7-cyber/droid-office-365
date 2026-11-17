@@ -16,3 +16,11 @@
 local.properties
 .env
 debug.keystore
+# Firebase & API Keys
+google-services.json
+firebase_applet_config.xml
+
+# Keystore / Signing files
+*.jks
+*.keystore
+keystore.properties
